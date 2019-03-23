@@ -1,0 +1,7 @@
+The jupyter notebook file initializes the model and show samples and process of making the model.
+The model is stored in the model1.pckl and model2.pckl already.
+The html file is a clearner way to view the jupyter notebook.
+
+credentials.py is in the spirit of the twitter assignment. It checks new incoming twittes for the account. And respond with result of classification if it detects an image in the twitte.
+
+To run the twitter bot, just run credentials.py
